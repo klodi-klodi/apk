@@ -1,54 +1,201 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ABPMajha.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/ABP_Majha.png" group-title="News",ABP Majha (720p)
-https://t2.tvmak.com/tv/TVERA.m3u8?uiGj1Zm06O
-#EXTINF:-1 tvg-id="News18Lokmat.in" tvg-logo="https://i.imgur.com/SjbtAFh.png" group-title="News",News18 Lokmat (720p) [Not 24/7]
-https://nw18live.cdn.jio.com/bpk-tv/News18_Lokmat_NW18_MOB/output01/News18_Lokmat_NW18_MOB-audio_98835_eng=98800-video=2702400.m3u8
-#EXTINF:-1 tvg-id="NDTV-Marathi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/NDTV_logo.svg/300px-NDTV_logo.svg.png" group-title="News",NDTV Marathi
-https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/master_1.m3u8
-#EXTINF:-1 tvg-id="INBD400001CP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400001CP_20240131T032544SQUARE.png_20240131032545.png" group-title="News" , Zee 24 Taas
-https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
-#EXTINF:-1 tvg-id="INBD2500006OC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500006OC_20240131T032532SQUARE.png_20240131032533.png" group-title="News" , TV9 Marathi
-https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="FaktMarathi.in" tvg-logo="https://i.imgur.com/y0VS4QN.png" group-title="Entertainment",Fakt Marathi
-https://live-faktmarathi.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 channel-id="samsung-INBC1500014OM" tvg-id="INBC1500014OM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC1500014OM_20240131T032453SQUARE.png_20240131032453.png" group-title="Music" , Maiboli
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/maiboli/master.m3u8
-https://i.mjh.nz/SamsungTVPlus/INBC1500014OM.m3u8
-#EXTINF:-1 tvg-id="9XJhakaas.in" tvg-logo="https://i.imgur.com/aZ0f85I.png" group-title="Music",9x Jhakaas
-https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="Shemaroo Bollywood" tvg-name="Shemaroo Bollywood {Distro}" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Shemaroo_TV_Logo.png" group-title="Movies",Shemaroo Bollywood
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/master.m3u8
-#EXTINF:-1 tvg-id="Bollywood Prime" tvg-name="Bollywood Prime {Distro}" tvg-logo="https://a.jsrdn.com/hls/23145/bollywood-prime/logo_20231219_184906_65.png" group-title="Movies",Bollywood Prime
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.sefiles.net/merchant/5511/images/site/logo_ae_300x80.png" group-title="Infotainment", Adventure Earth
-https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="INBA4900023QJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900023QJ_20220427T054726SQUARE.png_20220427054727.png" group-title="Infotainment" , Xplore
-http://xlpore-samsungus.amagi.tv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.powernationtv.com/images/brands/pn_icon_sm.png" group-title="Infotainment", PowerNation TV
-https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991291
-https://i.mjh.nz/SamsungTVPlus/USBD2500017XQ.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Motorvision%2B_Logo_2023.svg" group-title="Infotainment", MotorVision
-https://api-ott.motorvision.tv/loggingmediaurlpassthrough/a.m3u8?&version=12&id=1199&partner=klowdtv&device_model=&device_width=1920&device_height=1080&yob=&gender=&us_privacy=1---&gdpr=&gdpr_consent=&device_language=&is_lat=
-
-#EXTINF:-1 tvg-id="DroneTV" tvg-name="DroneTV Shorts" tvg-logo="https://cdn.airvuz.com/assets/header/airvuz-drone-logo.png" group-title="Infotainment", DroneTV Shorts
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/440.m3u8
-#EXTINF:-1 tvg-id="WM" tvg-name="Watch Mojo" tvg-logo="https://www.watchmojo.com/2016/img/wm_logo3_2018.webp" group-title="Infotainment", Watch Mojo (EU)
-https://watchmojo-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RT" tvg-name="Rotten Tomatoes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Rotten_Tomatoes.svg" group-title="Infotainment", Rotten Tomatoes (EU)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00491-fandango-rottentomatoesroku-rokuus/playlist.m3u8
-#EXTINF:-1 tvg-id="NASA" tvg-name="NASA.US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/NASA_TV.svg" group-title="Infotainment", NASA TV Live
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://helios-i.mashable.com/imagery/roundup-products/03i7YGjGhVgcnzv5MoErkEn/product-image.fit_lpad.size_672x378.v1630424422.png" group-title="Infotainment", Documentary+
-https://documentaryplus-documentaryplus-3-us.ono.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="HistoryTV" tvg-name="HistoryTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="Infotainment", HistoryTV 365
-https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/62/Modern_Marvels_title_credits.jpg" group-title="Infotainment", Modern Marvels
-https://277b8244.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9Nb2Rlcm5NYXJ2ZWxzX0hMUw/playlist.m3u8
-
-
-
+#EXTINF:0 tvg-id="RTK.al" group-title="Albania",AL: RTK 1
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/269
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTK 3
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/267
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTK 4
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/266
+#EXTINF:0 tvg-id="RTV21.al" group-title="Albania",AL: RTV 21
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/253
+#EXTINF:0 tvg-id="KTV.al" group-title="Albania",AL: Ktv HD
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/284
+#EXTINF:0 tvg-id="KlanKosova.al" group-title="Albania",AL: Klan Kosova HD
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/292
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: T7
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/351
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Kanal 10
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/374
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL TV Dukagjini
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/377
+#EXTINF:0 tvg-id="TopChannel.al" group-title="Albania",AL: Top Channel
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/235
+#EXTINF:0 tvg-id="TopChannelHD.al" group-title="Albania",AL: Top Channel HD
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/236
+#EXTINF:0 tvg-id="KlanTV.al" group-title="Albania",AL: Klan
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/293
+#EXTINF:0 tvg-id="KlanTVHD.al" group-title="Albania",AL: Klan HD
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/294
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Klan Plus HD
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/290
+#EXTINF:0 tvg-id="VizionPlus.al" group-title="Albania",AL: Vizion Plus
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/214
+#EXTINF:0 tvg-id="AlsatM.al" group-title="Albania",AL: Alsat M
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/375
+#EXTINF:0 tvg-id="News24.al" group-title="Albania",AL: News 24
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/273
+#EXTINF:0 tvg-id="OraNews.al" group-title="Albania",AL: Ora News
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/272
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Report TV
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/271
+#EXTINF:0 tvg-id="ABCNews.al" group-title="Albania",AL: Abc News HD
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/379
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: FAX News
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/313
+#EXTINF:0 tvg-id="Kanali7.al" group-title="Albania",AL: Kanali 7
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/296
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTV Ora
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/215
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Scan TV
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/247
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: A2 CNN
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/380
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Euronews Albania
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/371
+#EXTINF:0 tvg-id="ext" group-title="Albania",*** rtsh ***
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/384
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Rtsh 1 HD
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/265
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Rtsh 2 HD
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/264
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Rtsh 3 HD
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/262
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH 24
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/263
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Rtsh Film HD
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/260
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH Femije
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/261
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Rtsh Shqip HD
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/254
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH Plus
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/255
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH Muzike
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/256
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: RTSH Kuvend
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/257
+#EXTINF:0 tvg-id="ext" group-title="Albania",*** filma ***
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/385
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Film Gold HD
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/306
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Film Max HD
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/309
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Family HD
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/314
+#EXTINF:0 tvg-id="FilmKomedi.al" group-title="Albania",AL: Film Komedi
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/307
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Film Aksion HD
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/312
+#EXTINF:0 tvg-id="FilmDrame.al" group-title="Albania",AL: Film Drame
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/310
+#EXTINF:0 tvg-id="FilmThriller.al" group-title="Albania",AL: Film Thriller
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/305
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Film Hits HD
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/308
+#EXTINF:0 tvg-id="FilmAutor.al" group-title="Albania",AL: Film Autor
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/311
+#EXTINF:0 tvg-id="ext" group-title="Albania",*** X kinema  ***
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/386
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: X Premium 1 HD
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/205
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: X Premium 2 HD
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/204
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: X Premium 4 HD
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/202
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: X Family HD
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/209
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: X Drama HD
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/210
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: X Action HD
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/213
+#EXTINF:0 tvg-id="ext" group-title="Albania",*** Filma 24 TV ***
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/14355
+#EXTINF:0 tvg-id="ext" group-title="Albania",*** Tele One ***
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/14354
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TELE one 1
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/14349
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TELE one 2
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/14350
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TELE one 3
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/14351
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TELE one 4
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/14352
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TELE one 5
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/14353
+#EXTINF:0 tvg-id="ext" group-title="Albania",TELE one muzik Shqip
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/14356
+#EXTINF:0 tvg-id="ext" group-title="Albania",TELE one Aksion HD
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/14357
+#EXTINF:0 tvg-id="ext" group-title="Albania",TELE one Aventure
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/14358
+#EXTINF:0 tvg-id="ext" group-title="Albania",TELE one Crime HD
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/14359
+#EXTINF:0 tvg-id="ext" group-title="Albania",TELE one GOLD Collection HD
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/14360
+#EXTINF:0 tvg-id="ext" group-title="Albania",TELE one fantazi HD
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/14361
+#EXTINF:0 tvg-id="ext" group-title="Albania",TELE one Thriller HD
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/14362
+#EXTINF:0 tvg-id="ext" group-title="Albania",TELE one Drama HD
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/14363
+#EXTINF:0 tvg-id="ext" group-title="Albania",TELE one Epik HD
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/14364
+#EXTINF:0 tvg-id="ext" group-title="Albania",*** shqipTV kinema ***
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/387
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Digi Gold 1
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/370
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Digi Gold 2
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/369
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Digi Gold 3
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/368
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Digi Gold 4
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/367
+#EXTINF:0 tvg-id="ext" group-title="Albania",*** music ***
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/392
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Melody TV
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/281
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: BBF Music
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/337
+#EXTINF:0 tvg-id="MyMusic.al" group-title="Albania",AL: My Music
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/275
+#EXTINF:0 tvg-id="STVFolk.al" group-title="Albania",AL: STV Folk
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/243
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Folklorit
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/302
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Elrodi
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/330
+#EXTINF:0 tvg-id="FolkPlus.al" group-title="Albania",AL: Folk
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/303
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Klan Music
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/304
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Blue Sky
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/372
+#EXTINF:0 tvg-id="SuperSonicTV.al" group-title="Albania",AL: Supersonic TV
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/373
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: ALB UK
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/340
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: AlbDreams
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/341
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: IN TV
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/299
+#EXTINF:0 tvg-id="ETV.al" group-title="Albania",AL: Era Tv
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/329
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Alpo TV
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/333
+#EXTINF:0 tvg-id="ext" group-title="Albania",*** lokale ***
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/393
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV Shenja
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/218
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV Rozafa Shkoder
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/219
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV Kopliku
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/220
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: TV 1 Shkoder
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/221
+#EXTINF:0 tvg-id="TemaTV.al" group-title="Albania",AL: Tema Tv
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/240
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Star Plus Shkodra
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/245
+#EXTINF:0 tvg-id="Living.al" group-title="Albania",AL: Living HD
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/283
+#EXTINF:0 tvg-id="ext" group-title="Albania",AL: Syri Blue HD
+http://storeiptv.net:2095/gSyFSChx5EpN/HWhxZ2FJS3AW/342
